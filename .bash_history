@@ -46,3 +46,17 @@ skm resources
 java
 java -version
 sdk install gradle 7.4
+skm
+skm help
+pacman -R splashkit
+pacman -R skm
+pacman -Ss
+pacman -R SplashKit
+splashkit
+skm help
+skm unistall
+skm uninstall
+uninstall skm
+skm help
+skm update
+skm uninstall
